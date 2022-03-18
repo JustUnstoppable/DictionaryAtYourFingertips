@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Vocabulary</string>
+    <string name="meaning">Meaning</string>
+    <string name="please_wait">Please Wait!</string>
+</resources>
