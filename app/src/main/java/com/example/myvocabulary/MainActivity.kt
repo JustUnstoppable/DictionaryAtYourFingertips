@@ -1,10 +1,8 @@
 package com.example.myvocabulary
 
-import android.R.attr.start
 import android.annotation.SuppressLint
 import android.app.Dialog
 import android.media.MediaPlayer
-import android.net.Uri
 import android.os.Bundle
 import android.os.Environment
 import android.speech.tts.TextToSpeech
@@ -27,7 +25,7 @@ import java.util.*
 
 
 class MainActivity : AppCompatActivity() {
-    //for binding to work, must include layout file
+    //For binding to work, must include layout file
     private lateinit var binding:ActivityMainBinding
     private var t1: TextToSpeech? = null
     private lateinit var word:String
