@@ -19,7 +19,7 @@ feature to speak out the meaning of a word.<br></p>
         </tr>
         <tr>
             <td><img src="WhatsApp Image 2023-07-10 at 11.28.29 (1).jpeg" width=300"></td>
-            <td><img src="WhatsApp Image 2023-07-10 at 11.28.29 (1).jpeg" width=300"></td>
+            <td><img src="WhatsApp Image 2023-07-10 at 11.28.29 (2).jpeg" width=300"></td>
         </tr>
     </tbody>
 </table>
