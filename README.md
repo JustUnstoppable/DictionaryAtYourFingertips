@@ -1,5 +1,5 @@
 #           <h1 align="center"> Dictionary At Your Fingertips</h1>
-<p align="center">This app does API calling from dictionary API. Also, I have used retrofit <br>
+<p align="center">This app does API calling from free dictionary API. Also, I have used retrofit <br>
 library, GSON, and data binding features. I have also played audio, phonetics of<br>
 words given in API using MediaPlayer(). It has TextToSpeech accessibility <br>
 feature to speak out the meaning of a word.<br></p>
