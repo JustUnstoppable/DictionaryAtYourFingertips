@@ -1,8 +1,8 @@
 #           <h1 align="center"> Dictionary At Your Fingertips</h1>
-<p align="center">This app does API calling from free dictionary API. Also, I have used retrofit <br>
-library, GSON, and data binding features. I have also played audio, phonetics of<br>
-words given in API using MediaPlayer(). It has TextToSpeech accessibility <br>
-feature to speak out the meaning of a word.<br></p>
+<p align="center">I created an Android application that leverages a free dictionary API to provide users with word meanings, audio pronunciations, <br>
+        and phonetics. The app incorporates a calendar-based learning tracker to monitor learning streaks and allows users to <br>
+        save word details to a Room database. Additionally, it enhances accessibility with TextToSpeech functionality, making it<br> 
+        easier for users to learn and understand word meanings.<br></p>
 <hr size="5" noshade="">
 
 <ul>
