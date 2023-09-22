@@ -5,7 +5,10 @@ words given in API using MediaPlayer(). It has TextToSpeech accessibility <br>
 feature to speak out the meaning of a word.<br></p>
 <hr size="5" noshade="">
 
-
+<ul>
+        <li><h5>Dictionary API Integration:</h5>Successfully integrated a free dictionary API to fetch and display word meanings, parts of speech, phonetics, and audio pronunciations within the Android application.</li>
+        <li><h5>Learning Tracker with Streak:</h5>Implemented a calendar-based learning tracker that allows users to maintain their vocabulary learning streak. This feature encourages consistent learning and skill development.</li>
+</ul>
 <table align="center">
     <thead>
         <tr>
@@ -22,8 +25,6 @@ feature to speak out the meaning of a word.<br></p>
     </tbody>
 </table>
 <ul>
-        <li><h5>Dictionary API Integration:</h5>Successfully integrated a free dictionary API to fetch and display word meanings, parts of speech, phonetics, and audio pronunciations within the Android application.</li>
-        <li><h5>Learning Tracker with Streak:</h5>Implemented a calendar-based learning tracker that allows users to maintain their vocabulary learning streak. This feature encourages consistent learning and skill development.</li>
         <li><h5>Room Database Integration:</h5>Integrated the Room Persistence Library to enable users to save and manage word details locally. This database functionality enhances the app's offline capabilities and user experience.</li>
         <li><h5>Text-to-Speech Functionality:</h5>Leveraged the TextToSpeech accessibility feature to provide users with an audio pronunciation of the word's meaning, enhancing the app's accessibility and usability.</li>
         <li><h5>Audio Playback:</h5>Implemented audio playback of word pronunciations using MediaPlayer(), providing users with an interactive and engaging learning experience.</li>
