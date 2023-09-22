@@ -21,4 +21,11 @@ feature to speak out the meaning of a word.<br></p>
         </tr>
     </tbody>
 </table>
-
+<ul>
+        <li><h3>API Integration:</h3>Integrated a free dictionary API for word meanings, phonetics, and audio pronunciations.</li>
+        <li><h3>Learning Tracker:</h3>Implemented a calendar-based streak feature to track user vocabulary learning.</li>
+        <li><h3>Room Database:</h3>Integrated Room Persistence Library for local word details management.</li>
+        <li><h3>Text-to-Speech:</h3>Enabled TextToSpeech for audio pronunciation of word meanings.</li>
+        <li><h3>Audio Playback:</h3>Implemented MediaPlayer() for word pronunciations.</li>
+</ul>
+    
